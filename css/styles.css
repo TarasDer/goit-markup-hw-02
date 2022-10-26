@@ -99,6 +99,10 @@ body {
 .hero {
   background-color: var(--secondary-background-color);
   color: var(--primary-white-color);
+  text-align: center;
+}
+
+.hero h1 {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
